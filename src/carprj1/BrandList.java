@@ -21,7 +21,7 @@ public class BrandList extends ArrayList<Brand> {
         return true;
     }
 
-    public boolean SavvteToFile(String txt) {
+    public boolean SavteToFile(String txt) {
 
         return true;
 //checkpoint
